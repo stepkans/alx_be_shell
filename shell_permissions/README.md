@@ -5,3 +5,4 @@
 `touch hello`  command to create a new empty file
 
 `chmod u=rwx hello` A command to add executable perm to file owner
+`chmod u=rx,g=rx,o=r hello` A command to change file perms
