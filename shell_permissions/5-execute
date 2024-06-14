@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx 5-execute
+chmod u=rwx hello
